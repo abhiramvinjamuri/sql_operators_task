@@ -1,0 +1,1 @@
+# sql_arthemetic_operators_task
